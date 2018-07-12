@@ -8,6 +8,6 @@ public class UserController {
 
     @RequestMapping("/hello")
     public String index() {
-        return "Hello c";
+        return "Hello SpringBoot";
     }
 }
